@@ -9,7 +9,14 @@
 ## 专业技能 | Technical Skills
 - 编程语言 | Programming Languages
   - 精通 Golang，熟悉 Go 语言特性及并发编程 | Proficient in Golang, familiar with Go features and concurrent programming
-  - 了解 Python, JavaScript 等其他编程语言 | Knowledge of Python, JavaScript and other programming languages
+  - 掌握 Java, Python, JavaScript 等其他编程语言 | Handle of Java, Python, JavaScript and other programming languages
+  - 熟练掌握 Solidity 智能合约开发 | Proficient in Solidity smart contract development
+
+- 区块链技术 | Blockchain Technology
+  - 深入理解以太坊架构和智能合约开发 | In-depth understanding of Ethereum architecture and smart contract development
+  - 熟悉 DeFi 协议开发和 ERC 标准实现 | Familiar with DeFi protocol development and ERC standards implementation
+  - 掌握 Web3.js, Ethers.js 等区块链开发库 | Proficient in blockchain development libraries like Web3.js, Ethers.js
+  - 了解 Layer2 扩展方案和跨链技术 | Knowledge of Layer2 scaling solutions and cross-chain technologies
 
 - 技术栈 | Technology Stack
   - 熟练使用 Gin, Gorm, Echo 等主流 Go 框架 | Proficient in mainstream Go frameworks like Gin, Gorm, Echo
@@ -24,6 +31,6 @@
 
 ## 语言能力 | Language Skills
 - 中文（母语） | Chinese (Native)
-- 英语（流利） | English (Fluent)
+- 英语（良好） | English (Good)
   - 可进行日常工作交流 | Capable of daily work communication
   - 具备技术文档阅读和写作能力 | Proficient in reading and writing technical documentation

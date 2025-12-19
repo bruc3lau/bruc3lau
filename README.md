@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **High-performance Backend Systems (Java & Go)**.
   > 目前专注于 **高性能后端系统（Java & Go）** 的开发。
   
-- 🌱 I’m currently learning **Advanced Kafka Patterns & Cloud Native Architecture**.
-  > 正在学习 **Kafka 高级模式与云原生架构**。
+- 🌱 I’m currently learning **Cloud Native Architecture & AI Large Models**.
+  > 正在学习 **云原生架构与 AI 大模型**。
 
 - 👯 I’m looking to collaborate on **Open Source Tooling**.
   > 期待在 **开源工具** 领域与更多大牛合作。

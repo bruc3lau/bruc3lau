@@ -86,22 +86,32 @@
 ## 📈 GitHub Stats / 统计数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lau&show_icons=true&theme=radical&locale=cn" alt="Lau's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lau&layout=compact&theme=radical&locale=cn" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruc3lau&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruc3lau&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruc3lau&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bruc3lau&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruc3lau&theme=radical" alt="Productive Time" />
 </div>
 
 ---
 
-## 🎧 Spotify Playing / 正在收听
+<!-- ## 🎧 Spotify Playing / 正在收听 -->
 
-<!-- Replace with your own Spotify link or simply remove if not needed -->
+<!-- Uncomment and replace 'your_spotify_uid' with your actual Spotify User ID to enable this widget
 <div align="center">
   <a href="https://spotify.com">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </div>
+-->
 
----
+<!-- --- -->
 
 <p align="center">
   <i>Let's code, create, and conquer! / 让我们一起编码、创造、征服！</i> 🚀

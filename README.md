@@ -44,6 +44,12 @@
       <br>Go
     </td>
     <td align="center" width="96">
+      <a href="#gin">
+        <img src="https://skillicons.dev/icons?i=gin" width="48" height="48" alt="Gin" />
+      </a>
+      <br>Gin
+    </td>
+    <td align="center" width="96">
       <a href="#python">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
@@ -55,18 +61,18 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <a href="#spring">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
   </tr>
 </table>
 
 ### Cloud-Native & DevOps / 云原生与运维
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#grpc">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48" height="48" alt="gRPC" />
+      </a>
+      <br>gRPC
+    </td>
     <td align="center" width="96">
       <a href="#kubernetes">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
@@ -128,10 +134,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#mysql">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <a href="#postgresql">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>MySQL
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#redis">

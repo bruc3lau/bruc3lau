@@ -2,84 +2,194 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Coding%20Consumer%20of%20Caffeine&fontSize=50&animation=fadeIn&fontAlign=50)
 
-### 🚀 Backend Developer | ☕ Coffee Enthusiast | 🐛 Bug Hunter
-### 🚀 后端开发者 | ☕ 咖啡重度依赖者 | 🐛 职业捉虫师
+### 🤖 Embodied Intelligence | 🏷️ Annotation Systems | ☁️ Cloud-Native Architect
+### 🤖 具身智能 | 🏷️ 标注系统 | ☁️ 云原生架构师
 
 ---
 
 ## 👨‍💻 About Me / 关于我
 
-- 🔭 I’m currently working on **High-performance Backend Systems (Java & Go)**.
-  > 目前专注于 **高性能后端系统（Java & Go）** 的开发。
+- 🤖 I'm currently working on **Embodied Intelligence & Multimodal AI Systems**.
+  > 目前专注于 **具身智能与多模态 AI 系统** 的开发。
   
-- 🌱 I’m currently learning **Cloud Native Architecture & AI Large Models**.
-  > 正在学习 **云原生架构与 AI 大模型**。
+- �️ Building **Data Annotation Platforms** with intelligent workflow orchestration.
+  > 构建具有智能工作流编排的 **数据标注平台**。
 
-- 👯 I’m looking to collaborate on **Open Source Tooling**.
-  > 期待在 **开源工具** 领域与更多大牛合作。
+- ☁️ Architecting **Cloud-Native Microservices** with Go, Kubernetes, and observability stack.
+  > 使用 Go、Kubernetes 和可观测性技术栈构建 **云原生微服务架构**。
 
-- 💬 Ask me about **Spring Boot, MyBatis, Kafka, and Python scripts**.
-  > 欢迎随时和我交流 **Spring Boot, MyBatis, Kafka 以及 Python 脚本** 相关的问题。
+- 🔧 Tech focus: **gRPC, Prometheus, Grafana, Argo Workflows, Video Processing Pipelines**.
+  > 技术重点：**gRPC、Prometheus、Grafana、Argo Workflows、视频处理管道**。
 
-- ⚡ Fun fact: **I can debug code in my sleep (literally).**
-  > 趣事：**我真的可以在梦里 Debug（不开玩笑）。**
+- 👯 I'm looking to collaborate on **AI Infrastructure & Cloud-Native Tooling**.
+  > 期待在 **AI 基础设施与云原生工具** 领域合作。
+
+- 💬 Ask me about **Golang microservices, Computer Vision, Data Annotation Systems, K8s**.
+  > 欢迎交流 **Golang 微服务、计算机视觉、数据标注系统、K8s** 相关话题。
+
+- ⚡ Fun fact: **I debug distributed systems while sipping coffee at 3 AM.**
+  > 趣事：**凌晨三点一边喝咖啡一边调试分布式系统是常态。**
 
 ---
 
 ## 🛠️ Tech Stack / 技术栈
 
+### Backend & Languages / 后端与语言
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#mac">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#mac">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <a href="#mac">
+      <a href="#go">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#mac">
+      <a href="#python">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-     <td align="center" width="96">
-      <a href="#mac">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+    <td align="center" width="96">
+      <a href="#java">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       </a>
-      <br>Kafka
+      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#mac">
+      <a href="#spring">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+  </tr>
+</table>
+
+### Cloud-Native & DevOps / 云原生与运维
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#kubernetes">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#docker">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#prometheus">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#grafana">
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#github-actions">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>GitHub Actions
+    </td>
+  </tr>
+</table>
+
+### AI/ML & Computer Vision / AI/ML 与计算机视觉
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#pytorch">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#tensorflow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#opencv">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
+
+### Databases & Message Queues / 数据库与消息队列
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#mysql">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#mac">
+      <a href="#redis">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
     <td align="center" width="96">
-      <a href="#mac">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <a href="#kafka">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
       </a>
-      <br>Docker
+      <br>Kafka
     </td>
   </tr>
 </table>
+
+---
+
+## 💼 Core Competencies / 核心能力
+
+### 🤖 Embodied Intelligence / 具身智能
+- **Computer Vision & Video Processing** | 计算机视觉与视频处理
+- **Multimodal AI Systems** | 多模态 AI 系统
+- **Real-time Video Analysis Pipelines** | 实时视频分析管道
+
+### 🏷️ Annotation Systems / 标注系统
+- **Data Labeling Platform Architecture** | 数据标注平台架构
+- **Workflow Orchestration (Argo Workflows)** | 工作流编排
+- **Quality Control & Validation** | 质量控制与验证
+
+### ☁️ Cloud-Native Go / 云原生 Go
+- **Microservices Architecture (gRPC)** | 微服务架构
+- **Kubernetes Orchestration** | Kubernetes 编排
+- **Observability Stack (Prometheus/Grafana)** | 可观测性技术栈
+- **Distributed Systems** | 分布式系统
+
+---
+
+## 🚀 Featured Projects / 精选项目
+
+### 🤖 Embodied Intelligence
+**Video Processing & Analysis Pipeline** | 视频处理与分析管道
+- Built scalable video processing pipelines with Python & OpenCV
+- Integrated multimodal AI models for real-time video analysis
+- Technologies: `Python` `OpenCV` `PyTorch` `Argo Workflows`
+
+### 🏷️ Annotation Systems
+**Data Labeling Platform** | 数据标注平台
+- Designed and implemented intelligent annotation workflow orchestration
+- Built quality control and validation systems for labeled data
+- Technologies: `Go` `React` `PostgreSQL` `Argo Workflows`
+
+### ☁️ Cloud-Native Monitoring
+**Golang Microservices Observability** | Go 微服务可观测性
+- Integrated Prometheus metrics collection for Golang backend services
+- Built custom Grafana dashboards for real-time monitoring
+- Implemented distributed tracing and alerting systems
+- Technologies: `Go` `Prometheus` `Grafana` `Docker` `Kubernetes`
 
 ---
 
@@ -114,5 +224,7 @@
 <!-- --- -->
 
 <p align="center">
-  <i>Let's code, create, and conquer! / 让我们一起编码、创造、征服！</i> 🚀
+  <i>Building intelligent systems, one pipeline at a time. / 构建智能系统，一次一个管道。</i> 🚀
+  <br>
+  <i>Embodied Intelligence • Annotation Systems • Cloud-Native Architecture</i>
 </p>
